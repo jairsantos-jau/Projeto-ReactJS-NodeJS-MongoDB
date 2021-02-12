@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "6025aaa253e456a5b759ab26"
+  },
+  "categoria": "geladeira",
+  "descricao_produto": "refrigerador",
+  "preco_real": 200.9,
+  "preco_desc": 78,
+  "imagem": "geladeira.jpg",
+  "marca": "electrolx"
+},{
+  "_id": {
+    "$oid": "6025c02abddca135b4e8c9a4"
+  },
+  "categoria": "folgao",
+  "descricao_produto": "refrigerado consul",
+  "preco_real": 200.9,
+  "preco_desc": 10,
+  "imagem": "fogao.jpg",
+  "marca": "electrolx bilu bilu"
+},{
+  "_id": {
+    "$oid": "6025c051bddca135b4e8c9a5"
+  },
+  "categoria": "geladeira",
+  "descricao_produto": "refrigerado consul",
+  "preco_real": 1000.9,
+  "preco_desc": 101,
+  "imagem": "fogao.jpg",
+  "marca": "electrolx potencial"
+},{
+  "_id": {
+    "$oid": "6025c55fbddca135b4e8c9a6"
+  },
+  "categoria": "microondas",
+  "descricao_produto": "forno microondas prata",
+  "preco_real": 1090.9,
+  "preco_desc": 20,
+  "imagem": "fogao.jpg",
+  "marca": "electrolx potencial"
+},{
+  "_id": {
+    "$oid": "6025c55fbddca135b4e8c9a7"
+  },
+  "categoria": "microondas",
+  "descricao_produto": "refrigerado consul",
+  "preco_real": 1000.9,
+  "preco_desc": 101,
+  "imagem": "microondas.jpg",
+  "marca": "electrolx potencial"
+},{
+  "_id": {
+    "$oid": "6025c55fbddca135b4e8c9a8"
+  },
+  "categoria": "lavaroupas",
+  "descricao_produto": "refrigerado consul",
+  "preco_real": 3000.9,
+  "preco_desc": 201,
+  "imagem": "lavroupa.jpg",
+  "marca": "electrolx "
+}]
